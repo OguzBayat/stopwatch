@@ -310,6 +310,7 @@
 				17BF88111F1FA7BC001D311A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
